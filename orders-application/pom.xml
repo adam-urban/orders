@@ -25,7 +25,6 @@
     <dependency>
       <groupId>pl.edu.wszib</groupId>
       <artifactId>orders-api</artifactId>
-      <version>${project.version}</version>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
